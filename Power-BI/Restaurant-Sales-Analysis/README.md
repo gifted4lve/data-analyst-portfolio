@@ -19,4 +19,4 @@ Excel (Power Query) . Power BI . DAX
 - 'Restaurant_Sales-Dashboard.pbix' - Power BI File
 - 'Restaurant_Sales_Dashboard.pdf' -static dashboard snapshort
 - 'Restaurant_ Sales_Summary_Report.docx' -written business report
-- 'Restaurant_Orders.csv', 'Food_Menu.csv' - cleaned source data.
+- 'Restaurant_Orders.csv', 'Food_Menu.csv' - cleaned source data
