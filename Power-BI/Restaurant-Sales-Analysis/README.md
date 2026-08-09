@@ -4,7 +4,7 @@ Power Bi capstone project analyzing a full year (2024) of restaurant order - 3,6
 ## Tools Used
 Excel (Power Query) . Power BI . DAX
 
-## What This Project Covetrs
+## What This Project Covers
 - Da)ta cleaning (data time local fixes, duplicate/type validation)
 - Data modeling (relationship between Orders and Menu tables)
 - KPIs cards, revenue & volume analysis by dishes, time, day and month
@@ -19,5 +19,4 @@ Excel (Power Query) . Power BI . DAX
 - 'Restaurant_Sales-Dashboard.pbix' - Power BI File
 - 'Restaurant_Sales_Dashboard.pdf' -static dashboard snapshort
 - 'Restaurant_ Sales_Summary_Report.docx' -written business report
-- 'Restaurant_Orders.csv', 'Food_Menu.csv' - cleaned source data
-- 
+- 'Restaurant_Orders.csv', 'Food_Menu.csv' - cleaned source data.
