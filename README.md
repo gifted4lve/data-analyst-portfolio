@@ -1,4 +1,4 @@
-&#x20;**Gifted4lve – Data Analyst Portfolio**
+\# Gifted4lve – Data Analyst Portfolio
 
 
 
@@ -10,11 +10,11 @@ I am an aspiring Data Analyst building practical projects using \*\*Excel, SQL, 
 
 
 
-&#x20;***Skills \& Tools***
+\## 🛠️ Skills \& Tools
 
 
 
-\- Excel
+\- Microsoft Excel
 
 \- SQL
 
@@ -36,69 +36,49 @@ I am an aspiring Data Analyst building practical projects using \*\*Excel, SQL, 
 
 
 
-&#x20;**Featured Projects**
+\## 📊 Featured Projects
 
 
 
-R***estaurant Sales Analysis – Power BI***
+\### 🍽️ Restaurant Sales Analysis – Power BI
 
 
 
-An interactive Power BI project analysing restaurant sales performance, product performance, revenue trends, and ordering patterns.
+A Power BI project analyzing restaurant sales performance using 2024 order data.
 
 
 
-\*\*Tools:\*\* Power BI, Power Query, DAX, Excel/CSV
+\*\*Tools used:\*\*
+
+\- Power BI
+
+\- Power Query
+
+\- DAX
+
+\- Excel / CSV
 
 
 
-\[View Project](./Power-BI/Restaurant-Sales-Analysis)
+\*\*Analysis includes:\*\*
+
+\- Sales and revenue performance
+
+\- Order volume
+
+\- Product performance
+
+\- Sales trends
+
+\- Day and month analysis
+
+\- Interactive dashboard and filters
+
+\- Business insights and recommendations
 
 
 
-&#x20;**What I Do**
-
-
-
-I enjoy turning raw data into clear and useful information that can help businesses understand their performance and make better decisions.
-
-
-
-My projects focus on:
-
-
-
-\- Cleaning and preparing data
-
-\- Finding trends and patterns
-
-\- Creating dashboards and reports
-
-\- Performing business analysis
-
-\- Communicating actionable insights
-
-
-
-***Currently Learning***
-
-
-
-\- Advanced SQL
-
-\- Power BI \& DAX
-
-\- Python for Data Analysis
-
-\- Advanced Excel
-
-
-
-**Portfolio Growth**
-
-
-
-This portfolio is continuously being updated with new \*Excel, SQL, Power BI, and Python projects\*.
+📁 \*\*Project:\*\* `Power-BI/Restaurant-Sales-Analysis`
 
 
 
@@ -106,5 +86,171 @@ This portfolio is continuously being updated with new \*Excel, SQL, Power BI, an
 
 
 
+\### 🛒 E-Commerce Sales Analysis
+
+
+
+An e-commerce sales analysis project focused on understanding sales performance, customer activity, products, categories, and regional performance.
+
+
+
+\*\*Tools used:\*\*
+
+\- Excel
+
+\- SQL
+
+\- Power BI
+
+\- DAX
+
+
+
+\*\*Analysis includes:\*\*
+
+\- Total sales
+
+\- Total profit
+
+\- Orders and customers
+
+\- Product categories
+
+\- Regional performance
+
+\- Monthly and yearly trends
+
+\- Top-performing products and customers
+
+\- Interactive dashboards
+
+
+
+📁 \*\*Project:\*\* `E-Commerce-Sales-Analysis`
+
+
+
+\---
+
+
+
+\## 📈 What I Do
+
+
+
+I use data to answer business questions such as:
+
+
+
+\- What products generate the most revenue?
+
+\- Which regions perform best?
+
+\- How are sales changing over time?
+
+\- Which customers contribute the most revenue?
+
+\- What factors may be affecting business performance?
+
+\- What actions can a business take based on the data?
+
+
+
+\## 🔄 My Data Analysis Process
+
+
+
+\*\*Raw Data → Data Cleaning → Data Transformation → Data Analysis → Visualization → Insights → Recommendations\*\*
+
+
+
+\## 🎯 Career Goal
+
+
+
+I am continuously developing my skills in data analytics and building real-world projects that demonstrate practical problem-solving and business intelligence skills.
+
+
+
+\## 📂 Portfolio Structure
+
+
+
+```text
+
+data-analyst-portfolio/
+
+│
+
+├── Power-BI/
+
+│   └── Restaurant-Sales-Analysis/
+
+│
+
+├── E-Commerce-Sales-Analysis/
+
+│
+
+├── Excel/
+
+│
+
+├── SQL/
+
+│
+
+└── Python/
+
+
+
+More projects will be added as I continue building my portfolio.
+
+
+
+👩‍💻 About Me
+
+
+
+Gifted4lve
+
+
+
+Aspiring Data Analyst passionate about turning raw data into meaningful insights using Excel, SQL, Power BI, and Python.
+
+
+
 ⭐ Thank you for visiting my portfolio!
+
+
+
+
+
+\### Step 3
+
+
+
+After pasting:
+
+
+
+1\. Press \*\*`Ctrl + S`\*\*
+
+2\. Close the README file.
+
+3\. Go back to \*\*GitHub Desktop\*\*.
+
+4\. You should see \*\*1 changed file\*\* — `README.md`.
+
+
+
+
+
+
+
+
+
+
+
+
 
