@@ -221,36 +221,3 @@ Aspiring Data Analyst passionate about turning raw data into meaningful insights
 
 
 ⭐ Thank you for visiting my portfolio!
-
-
-
-
-
-\### Step 3
-
-
-
-After pasting:
-
-
-
-1\. Press \*\*`Ctrl + S`\*\*
-
-2\. Close the README file.
-
-3\. Go back to \*\*GitHub Desktop\*\*.
-
-4\. You should see \*\*1 changed file\*\* — `README.md`.
-
-
-
-
-
-
-
-
-
-
-
-
-
