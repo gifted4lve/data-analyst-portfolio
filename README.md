@@ -174,33 +174,17 @@ I am continuously developing my skills in data analytics and building real-world
 
 \## 📂 Portfolio Structure
 
-
-
 ```text
-
 data-analyst-portfolio/
-
-│
-
 ├── Power-BI/
-
 │   └── Restaurant-Sales-Analysis/
-
-│
-
 ├── E-Commerce-Sales-Analysis/
-
-│
-
 ├── Excel/
-
-│
-
 ├── SQL/
-
-│
-
 └── Python/
+
+
+
 
 
 
